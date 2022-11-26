@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Tanmaey Gupta"
-excerpt: "About me"
+title: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
