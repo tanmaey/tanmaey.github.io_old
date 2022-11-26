@@ -27,6 +27,7 @@ watching robots avoid obstacles, or wondering the size of pendrive it would requ
 I also like exploring possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Cloud Computing.
 
 > __*I am currently looking for PhD opportunities to pursue research in fields stated above*__
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
