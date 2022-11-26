@@ -13,7 +13,7 @@ Hi! I am a Research Fellow (pre-doctoral fellow) at Microsoft Research India. I 
 I am intrigued by how computer systems and intelligence are accelerating towards ubiquity by breaking the existing limits and find myself passionate about being a part of the workforce that drives this transformation.
 
 
-> __*I am currently looking for PhD opportunities to pursue research in fields stated above*__
+> __*I am currently looking for PhD opportunities to pursue research in fields stated below*__
 
 My interests
 ======
