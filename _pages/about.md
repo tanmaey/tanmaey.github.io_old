@@ -8,25 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Fellow (pre-doctoral fellow) at Microsoft Research India, working in the area of Systems, Networking and AI. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a minor in Computer Science and Engineering. 
+Hi! I am a Research Fellow (pre-doctoral fellow) at Microsoft Research India. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
 
-I am intrigued by how computer systems and intelligence are accelerating towards ubiquity by breaking the existing limits. I find myself passionate about being a part of the workforce that drives this transformation.
+I am intrigued by how computer systems and intelligence are accelerating towards ubiquity by breaking the existing limits and find myself passionate about being a part of the workforce that drives this transformation.
 
 
 My interests
 ======
-My initial interests (or curiosities) were ignited by tiny amusements like controlling an RC car wirelessly, asking "smart"phone to set my alarm, 
-seeing how printers automatically started printing when fed a paper, or wondering the size of pendrive it would require to store all the videos of youtube! The desire to find answers to such curiosities and myself build something that amuses others led me to pursue the path of Science and Technology, and then a multi-disciplinary course spanning both EE and CSE at my undergrad institution. My academic, industrial and research exposure shaped my interests and motivated me to pursue a research career in the areas of:
+My interests (or curiosities) were initially ignited by tiny amusements like controlling an RC car wirelessly, 
+watching robots avoid obstacles, or wondering the size of pendrive it would require to store all the videos of youtube! The desire to find answers to such curiosities and myself build something that amuses others led me to pursue the path of Science and Technology, and then a multi-disciplinary course spanning both EE and CSE at my undergraduate institution. My academic, industrial and research exposure shaped my interests and motivated me to pursue a research career in the areas of:
 
 * Wireless Communication
 * Computer Networking
 * Distributed Systems
-* Edge (resource-constrained) Computing, ML
+* Embedded, Edge Computing
 * Applied AI
 
-I like exploring possibilities hidden in the use of multi-disciplinary knowledge to solve challenging problems. I also get excited by the idea of using tech to solve sustainability, environmental and societal problems. 
+I also like exploring possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Cloud Computing.
 
-
+> __*I am currently looking for PhD opportunities to pursue research in fields stated above*__
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
