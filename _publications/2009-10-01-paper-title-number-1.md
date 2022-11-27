@@ -3,33 +3,17 @@ title: "Verified Telemetry: A General, Easy to use, Scalable and Robust
 Fault Detection SDK for IoT Sensors"
 collection: publications
 permalink: /publications/Verified-Telemetry
-excerpt: 'With the proliferation of IoT sensors, the reliance on sensor telemetry has never been greater. Today numerous applications from
-smart agriculture to smart buildings and cities, rely on IoT telemetry to provide insights and to take decisions. However, due to the
-characteristics of these IoT deployments (in the wild, in harsh conditions), sensors are prone to failures, leading to the generation
-of bad/dirty data. Hitherto, data-centric algorithms were used to
-determine the quality of the sensed data, which has several limitations and relies on additional contextual information or sensor
-redundancy. Recently, system-centric approaches based on sensor
-fingerprinting has shown to detect sensor faults reliably without
-any additional information. However, the sensor fingerprinting
-approach is validated only for specific sensors, is not robust to
-real-world conditions, and cannot scale to large-scale deployments.
-To this end, we propose a general, easy-to-use, scalable, and
+excerpt: 'We propose a general, easy-to-use, scalable, and
 robust fault detection SDK called Verified Telemetry (VT) SDK. VT
 SDK builds on the sensor fingerprinting approach and can work
 with a wide variety of sensors (both analog and digital) and IoT
 devices with very minimal changes. We propose improved sensor fingerprinting algorithms that are robust to signal variations,
 sensor circuitry, and real-world conditions. VT SDK is already implemented in 1000s of devices and we show its usage on several
-practical applications. Finally, VT SDK will be made open source to
-address sensor fault detection in IoT deployments.'
-date: 2022-10-31
-venue: 'Under Review in 8th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI) 2023'
-<!-- # paperurl: ''
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
-
+practical applications. [Read more](Verified-Telemetry)'
+date: 2022-10-05
+venue: 'Under Review in USENIX NSDI, 2023 '
 ---
-<!--
-#This paper is about the number 1. The number 2 is left for future work.
+<br>
+With the proliferation of IoT sensors, the reliance on sensor telemetry has never been greater. Today numerous applications from smart agriculture to smart buildings and cities, rely on IoT telemetry to provide insights and to take decisions. However, due to the characteristics of these IoT deployments (in the wild, in harsh conditions), sensors are prone to failures, leading to the generation of bad/dirty data. Hitherto, data-centric algorithms were used to determine the quality of the sensed data, which has several limitations and relies on additional contextual information or sensor redundancy. Recently, system-centric approaches based on sensor fingerprinting has shown to detect sensor faults reliably without any additional information. However, the sensor fingerprinting approach is validated only for specific sensors, is not robust to real-world conditions, and cannot scale to large-scale deployments. 
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+To this end, we propose a general, easy-to-use, scalable, and robust fault detection SDK called Verified Telemetry (VT) SDK. VT SDK builds on the sensor fingerprinting approach and can work with a wide variety of sensors (both analog and digital) and IoT devices with very minimal changes. We propose improved sensor fingerprinting algorithms that are robust to signal variations, sensor circuitry, and real-world conditions. VT SDK is already implemented in 1000s of devices and we show its usage on several practical applications. Finally, VT SDK will be made open source to address sensor fault detection in IoT deployments.
