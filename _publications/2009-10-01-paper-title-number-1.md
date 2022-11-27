@@ -21,11 +21,13 @@ devices with very minimal changes. We propose improved sensor fingerprinting alg
 sensor circuitry, and real-world conditions. VT SDK is already implemented in 1000s of devices and we show its usage on several
 practical applications. Finally, VT SDK will be made open source to
 address sensor fault detection in IoT deployments.'
-date: 2009-10-31
+date: 2022-10-31
 venue: 'Under Review in 8th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI) 2023'
 <!-- # paperurl: ''
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
-<!-- ---
+
+---
+<!--
 #This paper is about the number 1. The number 2 is left for future work.
 
 #[Download paper here](http://academicpages.github.io/files/paper1.pdf)
