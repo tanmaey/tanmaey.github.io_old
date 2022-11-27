@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  timeline:
+  exp:
     title: /:collection/:path/
     output: true
 
